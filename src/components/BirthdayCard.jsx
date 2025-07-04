@@ -21,6 +21,7 @@ const BirthdayCard = ({ username }) => {
         <img src={profileImg} alt="Profile" className="w-full h-full object-cover" />
       </div>
       <p className="mt-4 text-gray-500">Semoga makin kuning dan selalu jadi monyet kesayangan yah 💛🌻🐝🌼🍯🧸</p>
+      <p className="mt-4 text-gray-500">-KOI</p>
     </div>
   );
 };
